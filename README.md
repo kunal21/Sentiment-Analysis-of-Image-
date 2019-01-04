@@ -1,1 +1,1 @@
-# Sentiment-Analysis-of-Image-
+# Sentiment-Analysis-of-Image
